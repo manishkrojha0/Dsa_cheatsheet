@@ -17,7 +17,7 @@ int maxSubarraySum(int a[], int n){
         sum=max(sum,cur);
 
     }
-    cout<<"cur="<<cur<<" sum="<<sum<<endl;
+  //  cout<<"cur="<<cur<<" sum="<<sum<<endl;
     return sum;
 }
 void solve()
